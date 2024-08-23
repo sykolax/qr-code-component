@@ -1,2 +1,6 @@
 # qr-code-component
-Web practice project - qr code component(part of Frontend mentor project)
+Web project for learning html & css.
+## Overview
+A basic website showing a QR code and some text. Built with plain html & css.
+### Screenshot
+![](./final_screenshot.png)
